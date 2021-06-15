@@ -1,3 +1,8 @@
+/*
+Exercise 1: CamelCase
+See problem statement here: https://gist.github.com/meer-online/e933ebf41da99a7c32530d5db839be45
+*/
+
 package main
 
 import "fmt"
