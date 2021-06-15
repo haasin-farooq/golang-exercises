@@ -1,3 +1,12 @@
+/*
+Exercise 2: Writing files
+Write a go program:
+- Where a text file is created, e.g sample.txt.
+- If the file already exists then truncate the contents of the file.
+- Write some random data to the file (“Lorem ispum”) and close the file.
+- Then read the same file and display its contents on the console.
+*/
+
 package main
 
 import (
