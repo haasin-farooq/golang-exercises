@@ -5,7 +5,9 @@ See problem statement here: https://gist.github.com/meer-online/e933ebf41da99a7c
 
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func camelCase(s string) int {
 	if s == "" {
